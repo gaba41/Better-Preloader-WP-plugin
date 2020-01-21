@@ -35,6 +35,6 @@ All functionalities are included! FREE of charge (obviously.)
 
 == Changelog ==
 
-= 1.0.0 =
+= 0.5 =
 
-* First version.
+* It works.
