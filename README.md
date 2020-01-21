@@ -24,8 +24,6 @@ All functionalities are included! FREE of charge (obviously.)
 
 * COMING SOON *
 
-== Installation ==
-
 ### Installation
 
 1. Upload 'better-preloader' folder to the '/wp-content/plugins/' directory.
