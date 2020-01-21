@@ -5,7 +5,7 @@ Plugin URI: #
 Description: Add a preloader to your website efficiently and FREE of charge!
 Version: 1.0
 Author: GABA
-Author URI: https://www.totel.it
+Author URI: #
 License: GPLv2 or later
 */
 
