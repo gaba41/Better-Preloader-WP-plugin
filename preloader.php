@@ -3,7 +3,7 @@
 Plugin Name: Better Preloader
 Plugin URI: #
 Description: Add a preloader to your website efficiently and FREE of charge!
-Version: 1.0
+Version: 0.5
 Author: GABA
 Author URI: #
 License: GPLv2 or later
