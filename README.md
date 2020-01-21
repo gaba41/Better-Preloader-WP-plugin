@@ -5,6 +5,7 @@ A simple preloader for Wordpress. No stress, No fuss, it just works.
 
 * Retina Ready (Depending on the size of the image).
 * Custom background color.
+* Adjustable size via Control Panel.
 * 10 Options to display Preloader (display it in the entire website or in posts only or in pages only, etc).
 * WooCommerce Support.
 * jQuery & CSS3.
